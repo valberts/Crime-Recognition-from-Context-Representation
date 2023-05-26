@@ -1,2 +1,5 @@
 *.zip 
 ExpansionNet_v2-master
+high-level-context-representation/glove
+high-level-context-representation/models
+high-level-context-representation/senticnet-5.0
